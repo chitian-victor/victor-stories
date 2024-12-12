@@ -7,6 +7,7 @@ my preference on work and life
 * https://ohmyz.sh/#install 官网安装基础主题，再下载两个额外的插件到~/.oh-my-zsh 的 plugins 文件中
    *  指令高亮(https://github.com/zsh-users/zsh-syntax-highlighting)
    *  自动补全(https://github.com/zsh-users/zsh-autosuggestions)
+   *  z，历史文件路径查询，自带的插件
 
 ![image](https://github.com/user-attachments/assets/702d52f0-c65c-4361-a381-400ac049191d)
 
